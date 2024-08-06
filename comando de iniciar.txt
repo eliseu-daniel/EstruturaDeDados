@@ -1,0 +1,2 @@
+para criar o projeto -> dotnet new console -n NomedoProjeto
+para executar -> dotnet run /Main (ou o nome do metodo/função principal)
