@@ -19,7 +19,24 @@ namespace PilhaEstatica
             agenda.Empilhar("C");
             agenda.Empilhar("D");
             agenda.Empilhar("E");
-            //agenda.Empilhar("Falha"); // vai mostrar o else do metodo Empilhar
+            agenda.Empilhar("Falha"); // vai mostrar o else do metodo Empilhar
+
+            System.Console.WriteLine();
+            System.Console.WriteLine("IMPRIMINDO A PILHA");
+            agenda.Imprimir();
+
+            System.Console.WriteLine();
+            System.Console.WriteLine("DESEMPILHAR");
+            agenda.Desempilhar();
+            agenda.Desempilhar();
+            agenda.Desempilhar();
+            agenda.Desempilhar();
+            agenda.Desempilhar();
+
+            agenda.Desempilhar(); // erro
+
+            agenda.Empilhar("A");
+            System.Console.WriteLine("Deu tudo certo");
 
             Console.ReadKey(); // faz uma parada no processamento
         }

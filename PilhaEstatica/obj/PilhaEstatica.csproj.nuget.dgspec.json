@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\F177-LAB04-PC01\\Desktop\\aula1\\PilhaEstatica\\PilhaEstatica.csproj": {}
+    "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\F177-LAB04-PC01\\Desktop\\aula1\\PilhaEstatica\\PilhaEstatica.csproj": {
+    "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\F177-LAB04-PC01\\Desktop\\aula1\\PilhaEstatica\\PilhaEstatica.csproj",
+        "projectUniqueName": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj",
         "projectName": "PilhaEstatica",
-        "projectPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\aula1\\PilhaEstatica\\PilhaEstatica.csproj",
+        "projectPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj",
         "packagesPath": "C:\\Users\\F177-LAB04-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\aula1\\PilhaEstatica\\obj\\",
+        "outputPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\F177-LAB04-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",

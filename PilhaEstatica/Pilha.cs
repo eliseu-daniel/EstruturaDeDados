@@ -26,5 +26,32 @@ namespace PilhaEstatica
                 Console.WriteLine("Pilha Cheia");
             }
         }
+
+        public void Desempilhar()
+        {
+            if (topo > 0)
+            {
+                topo--;
+            }
+            else
+            {
+                System.Console.WriteLine("Pilha vazia!");
+            }
+        }
+
+        public void Imprimir()
+        {
+            if (topo > 0)
+            {
+                for (int i = (topo - 1); i >= 0; i--)
+                {
+                    System.Console.WriteLine(pilha[i]);
+                }
+            }
+            else
+            {
+                System.Console.WriteLine("Pilha vazia!");
+            }
+        }
     }
 }
