@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\FilaEstatica.csproj": {}
+    "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/FilaEstatica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\FilaEstatica.csproj": {
+    "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/FilaEstatica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\FilaEstatica.csproj",
+        "projectUniqueName": "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/FilaEstatica.csproj",
         "projectName": "FilaEstatica",
-        "projectPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\FilaEstatica.csproj",
-        "packagesPath": "C:\\Users\\F177-LAB04-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\obj\\",
+        "projectPath": "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/FilaEstatica.csproj",
+        "packagesPath": "/home/eliseu/.nuget/packages/",
+        "outputPath": "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\F177-LAB04-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/eliseu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SdafLijPOXMXwdg1WK0xpCCjp3Y0j9f5xIqPNfjm9k8g/u0sEZpwNmBqNB8ZPjV83xCRPAmNvNtQ7g05zIrmrw==",
+  "dgSpecHash": "szEeR6oW1HdlSUpfeap1XaZ7uDOiFWXmbVbNx3Qk7PHbh6THWgF4pTsyl4ijJrNmrnHRghQcFsUR+ymXCTiU5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/eliseu/Documents/EstruturaDeDados/PilhaEstatica/PilhaEstatica.csproj",
+  "expectedPackageFiles": [
+    "/home/eliseu/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/eliseu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/eliseu/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

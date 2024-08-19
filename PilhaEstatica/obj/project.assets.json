@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\F177-LAB04-PC01\\.nuget\\packages\\": {}
+    "/home/eliseu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj",
+      "projectUniqueName": "/home/eliseu/Documents/EstruturaDeDados/PilhaEstatica/PilhaEstatica.csproj",
       "projectName": "PilhaEstatica",
-      "projectPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\PilhaEstatica.csproj",
-      "packagesPath": "C:\\Users\\F177-LAB04-PC01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\PilhaEstatica\\obj\\",
+      "projectPath": "/home/eliseu/Documents/EstruturaDeDados/PilhaEstatica/PilhaEstatica.csproj",
+      "packagesPath": "/home/eliseu/.nuget/packages/",
+      "outputPath": "/home/eliseu/Documents/EstruturaDeDados/PilhaEstatica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\F177-LAB04-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/eliseu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2FNuwlY6xPKeP6+U7rT9P0Tpljp3bxEMwPNO4uDB55BCNdG3sLmqJYwKtrC9bEkLxwYUnryfp/HbQ9DXf7OVNQ==",
+  "dgSpecHash": "QcyyK1kqgBAx41KHHonJlpM7KA8wUdwkzTrOBE67pCZShkXqn1m+exhIRXelITHlA5gV8wgCU8mVY9qtg2qhhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\F177-LAB04-PC01\\Desktop\\EstruturaDeDados\\FilaEstatica\\FilaEstatica.csproj",
+  "projectFilePath": "/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/FilaEstatica.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/bin/Debug/net8.0/ListaEstatica
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/bin/Debug/net8.0/ListaEstatica.deps.json
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/bin/Debug/net8.0/ListaEstatica.runtimeconfig.json
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/bin/Debug/net8.0/ListaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/bin/Debug/net8.0/ListaEstatica.pdb
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.AssemblyInfoInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.AssemblyInfo.cs
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.csproj.CoreCompileInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.sourcelink.json
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/refint/ListaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.pdb
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ListaEstatica.genruntimeconfig.cache
+/home/eliseu/Documents/EstruturaDeDados/ListaEstatica/obj/Debug/net8.0/ref/ListaEstatica.dll

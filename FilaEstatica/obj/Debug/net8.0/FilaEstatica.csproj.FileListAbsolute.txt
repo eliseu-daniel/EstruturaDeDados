@@ -1,0 +1,15 @@
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/bin/Debug/net8.0/FilaEstatica
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/bin/Debug/net8.0/FilaEstatica.deps.json
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/bin/Debug/net8.0/FilaEstatica.runtimeconfig.json
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/bin/Debug/net8.0/FilaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/bin/Debug/net8.0/FilaEstatica.pdb
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.AssemblyInfoInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.AssemblyInfo.cs
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.csproj.CoreCompileInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.sourcelink.json
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/refint/FilaEstatica.dll
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.pdb
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/FilaEstatica.genruntimeconfig.cache
+/home/eliseu/Documents/EstruturaDeDados/FilaEstatica/obj/Debug/net8.0/ref/FilaEstatica.dll
