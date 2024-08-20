@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PilhaEstatica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c93013c291160daaa5bbab340859cdd357482ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b7ed21c3dd1101c8c8c7046cfa145c41f340f80")]
 [assembly: System.Reflection.AssemblyProductAttribute("PilhaEstatica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PilhaEstatica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

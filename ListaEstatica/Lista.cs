@@ -28,9 +28,30 @@ namespace ListaEstatica
             }
         }
 
+        //Inserir na posição escolhida
         public void Inserir(string Valor, int Posicao)
         {
-            
+            if(ultimo < lista.Length)
+            {
+                for (int i = 0; i < (ultimo - (Posicao-1)); i++)
+                {
+                    lista[ultimo - i] = lista[(ultimo -1) - i];
+                }
+                lista[Posicao - 1] = Valor;
+                ultimo++;
+            }
+            else
+            {
+                Console.WriteLine("Lista Cheia");
+            }
+        }
+
+        public void Imprimir()
+        {
+            for (int i = 0; i < lista.Length; i++)
+            {
+                Console.WriteLine(i + " - " + lista[i]);
+            }
         }
     }
 }

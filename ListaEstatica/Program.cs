@@ -17,11 +17,16 @@ namespace ListaEstatica
             Lista Agenda = new Lista(Tamanho);
 
             Agenda.Inserir("A");
-            Agenda.Inserir("B");
             Agenda.Inserir("C");
-            Agenda.Inserir("D");
-            Agenda.Inserir("E", 1);
 
+            System.Console.WriteLine("Impressao do A e C");
+            Agenda.Imprimir();
+
+            System.Console.WriteLine("Inserindo a Letra B na 2a. posição");
+            Agenda.Inserir("B", 2);
+
+            System.Console.WriteLine("Impressao do A, B e C");
+            Agenda.Imprimir();
 
             Console.ReadKey();
         }
