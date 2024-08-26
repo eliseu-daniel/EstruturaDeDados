@@ -28,6 +28,18 @@ namespace ListaEstatica
             System.Console.WriteLine("Impressao do A, B e C");
             Agenda.Imprimir();
 
+            System.Console.WriteLine("Excluindo o C");
+            Agenda.Excluir();
+
+            System.Console.WriteLine("Impressão do A e B");
+            Agenda.Imprimir();
+
+            System.Console.WriteLine("Excluindo o A");
+            Agenda.Excluir(1);
+
+            System.Console.WriteLine("Impressao do B");
+            Agenda.Imprimir();
+            
             Console.ReadKey();
         }
     }

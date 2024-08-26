@@ -48,9 +48,39 @@ namespace ListaEstatica
 
         public void Imprimir()
         {
-            for (int i = 0; i < lista.Length; i++)
+            for (int i = 0; i < ultimo; i++)
             {
                 Console.WriteLine(i + " - " + lista[i]);
+            }
+        }
+
+        public void Excluir()
+        {
+            if (ultimo > 0)
+            {
+                ultimo--;
+                //lista[ultimo] = "";
+            }
+            else
+            {
+                System.Console.WriteLine("Lista vazia");
+            }
+        }
+
+        public void Excluir(int Posicao)
+        {
+            if(ultimo > 0)
+            {
+                while( Posicao <= ultimo)
+                {
+                    lista[Posicao - 1] = lista[Posicao];
+                    Posicao++;
+                }
+                ultimo--;
+            }
+            else
+            {
+                System.Console.WriteLine("Lista vazia");
             }
         }
     }

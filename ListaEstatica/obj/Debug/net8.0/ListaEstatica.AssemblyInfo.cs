@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaEstatica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b7ed21c3dd1101c8c8c7046cfa145c41f340f80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fedc2af16c5680470c7ff148f35c9fc3b834cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaEstatica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaEstatica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
