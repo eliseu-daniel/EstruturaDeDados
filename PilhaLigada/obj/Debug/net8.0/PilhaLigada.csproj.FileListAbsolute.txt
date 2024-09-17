@@ -1,0 +1,5 @@
+/home/eliseu/Documents/EstruturaDeDados/PilhaLigada/obj/Debug/net8.0/PilhaLigada.GeneratedMSBuildEditorConfig.editorconfig
+/home/eliseu/Documents/EstruturaDeDados/PilhaLigada/obj/Debug/net8.0/PilhaLigada.AssemblyInfoInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/PilhaLigada/obj/Debug/net8.0/PilhaLigada.AssemblyInfo.cs
+/home/eliseu/Documents/EstruturaDeDados/PilhaLigada/obj/Debug/net8.0/PilhaLigada.csproj.CoreCompileInputs.cache
+/home/eliseu/Documents/EstruturaDeDados/PilhaLigada/obj/Debug/net8.0/PilhaLigada.sourcelink.json
