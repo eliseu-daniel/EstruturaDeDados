@@ -4,8 +4,8 @@ namespace FilaLigada
 {
     internal class Fila
     {
-        Noh ultimo, primeiro = null;
-
+        Noh primeiro = null;
+        Noh ultimo = null;
         int quantidade = 0;
 
         public int Quantidade
@@ -15,6 +15,7 @@ namespace FilaLigada
 
         public void Enfileirar( string Valor)
         {
+            // nn -> NovoNoh
             Noh nn = new Noh();
 
             nn.Valor = Valor;
@@ -33,11 +34,22 @@ namespace FilaLigada
             quantidade++;
         }
 
+        public void Desenfileirar()
+        {
+            if (Quantidade > 0)
+            {
+                primeiro = primeiro.Proximo;
+                quantidade--;
+            }else
+            {
+                System.Console.WriteLine("Fila Vazia");
+            }
+        }
         public void Imprimir()
         {
             Noh auxfim = primeiro;
 
-            for (int i = primeiro; i < ultimo; i++)
+            for (int i = 0; i < Quantidade; i++)
             {
                 System.Console.WriteLine(auxfim.Valor);
                 auxfim = auxfim.Proximo;
